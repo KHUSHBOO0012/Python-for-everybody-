@@ -1,0 +1,22 @@
+ According to me there is mainly few things for developing self driving car i.e. detecting steering angle, finding vehicles and any obstacles or signal and which can be learned easily in low cost with cameras through advanced algorithm like yolo(you only look once) algorithm for object detection (https://www.coursera.org/lecture/convolutional-neural-networks/yolo-algorithm-fF3O0), perspective tranform for steering with 
+with help of steering controller (https://github.com/KHUSHBOO0012/self-driving-car-nd/blob/master/computer-vision-notes-and-labs/L18_Advanced_Lane_Finding.ipynb) and developing a vision based vehicle localization framework to enable navigation in GPS-denied enviroments(research work of Sanjeev Sharma Founder,  Director and CEO of Swayatt robotics).
+
+I think that startups like Swayatt, or Hungarian is not going to lose the race as all the things for self driving car can be done with cameras at very low price as compared to RADAR and LIDAR. some people argue that it will fail in adverse weather like fog and rain as cameras will not work efficiently but SDC can be learned to be slow as human driver in these condition.
+
+
+
+I will hack into the hardware of the car with help of panda, dashcam app chffr and cabana. chffr allows us to record and review our drives, in addition to helping to train self driving cars. Now if i have a panda paired with chffr, i can record all the sensors from  car. From any part of my drive, assuming my car has the sensors, i’ll be able to see how many RPM my engine was going, how much gas was in my tank, my MPG and other much more.(https://medium.com/@comma_ai/a-panda-and-a-cabana-how-to-get-started-car-hacking-with-comma-ai-b5e46fae8646).
+
+
+
+Self-driving cars are actually better than humans at obeying traffic laws. They don't drive too fast. They don't text and drive. They don't drive drunk. They don't fall asleep and drift into oncoming traffic.They look around the car 360 degrees.and They're able to take in way more information than a human driver and they don't get distracted.and thus SDC avoids vast number of accidents
+
+According to a study published by the Virginia Tech Transportation Institute, self-driving cars on average were involved in fewer accidents compared to vehicles driven by humans.The study analyzed more than 50 self-driving vehicles of Google, which have travelled about 1.3 million miles in total across California and Texas without being driven by humans.The Virginia Tech study estimates that human-driven vehicles find themselves in 4.2 crashes per million miles, as opposed to self-driving cars that find themselves in 3.2 crashes per million miles.
+
+It is true that self-driving cars don’t get tired, angry, frustrated or drunk. But neither can they yet react to uncertain and ambiguous situations with the same skill or anticipation of an attentive human driver, which suggests that perhaps the two still need to work together. Nor do purely automated vehicles possess the foresight to avoid potential peril: They largely drive from moment to moment, rather than thinking ahead to possible events literally down the road.
+
+
+
+Although Robot operating system like(turtlebot/Husky) brings the open-source way of development (community) to the industrial robots, letting industries be less dependent on a specific vendor. and Programming a tasks becomes totally independent of the vendor specific OS. But it is not reliable as actual car.
+It takes too much time to prepare and perform the same high level movements (like welding) that a robot can perform while being easily program with its own vendor programming interface.
+Industry requires a reliable and precise robot that can perform the same movement more than 10.000 times without ever having weird behaviours (https://answers.ros.org/question/237173).

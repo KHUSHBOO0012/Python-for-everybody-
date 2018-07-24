@@ -1,0 +1,21 @@
+spiderJson = {"nodes":[
+{"weight":3,"rank":9.467130451568648, "id":1, "url":"http://www.dr-chuck.com"},
+{"weight":3,"rank":19.0, "id":2, "url":"http://www.dr-chuck.com/dr-chuck/resume/index.htm"},
+{"weight":1,"rank":4.430165365546094, "id":3, "url":"http://www.dr-chuck.com/office"},
+{"weight":1,"rank":0.0, "id":4, "url":"http://www.dr-chuck.com/sakai-book"},
+{"weight":1,"rank":0.0, "id":5, "url":"http://www.dr-chuck.com/obi-sample"},
+{"weight":1,"rank":0.8480090357513688, "id":11, "url":"http://www.dr-chuck.com/dr-chuck/resume/leadership.htm"},
+{"weight":1,"rank":0.8480090357513688, "id":12, "url":"http://www.dr-chuck.com/dr-chuck/resume/speaking.htm"},
+{"weight":1,"rank":0.8480090357513688, "id":13, "url":"http://www.dr-chuck.com/dr-chuck/resume/pictures/index.htm"}],
+"links":[
+{"source":0,"target":1,"value":3},
+{"source":0,"target":2,"value":3},
+{"source":0,"target":3,"value":3},
+{"source":0,"target":4,"value":3},
+{"source":1,"target":0,"value":3},
+{"source":1,"target":5,"value":3},
+{"source":1,"target":6,"value":3},
+{"source":1,"target":7,"value":3},
+{"source":5,"target":1,"value":3},
+{"source":6,"target":1,"value":3},
+{"source":4,"target":0,"value":3}]};

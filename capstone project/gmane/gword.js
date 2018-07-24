@@ -1,0 +1,17 @@
+gword = [{text: 'sakaiportallogin', size: 100},
+{text: 'presense', size: 100},
+{text: 'lmsvle', size: 73},
+{text: 'rantscomments', size: 73},
+{text: 'developers', size: 46},
+{text: 'sakai', size: 46},
+{text: 'call', size: 20},
+{text: 'participation', size: 20},
+{text: 'documentation', size: 20},
+{text: 'report', size: 20},
+{text: 'from', size: 20},
+{text: 'austin', size: 20},
+{text: 'conference', size: 20},
+{text: 'break', size: 20},
+{text: 'into', size: 20},
+{text: 'song', size: 20}
+];
